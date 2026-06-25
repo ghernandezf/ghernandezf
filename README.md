@@ -50,4 +50,4 @@ Business performance analysis and KPI monitoring.
 
 📧 gabriel.hdez1691@gmail.com
 
-💼 LinkedIn: [linkedin-url](https://www.linkedin.com/in/gabrielhernandezfernandez/)
+💼 LinkedIn: [linkedin.com/in/gabrielhernandezfernandez](https://www.linkedin.com/in/gabrielhernandezfernandez/)
